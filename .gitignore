@@ -21,3 +21,7 @@ src/Snafucoin-wallet
 src/snafucoind
 src/Snafucoin-cli
 src/Snafucoin-tx
+src/libbitcoin_server.a
+src/libbitcoin_wallet.a
+src/libmw.a
+src/libbitcoin_common.a
