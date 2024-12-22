@@ -25,3 +25,7 @@ src/libbitcoin_server.a
 src/libbitcoin_wallet.a
 src/libmw.a
 src/libbitcoin_common.a
+src/libbitcoin_server.a
+src/libbitcoin_wallet.a
+src/libmw.a
+src/libbitcoin_common.a
