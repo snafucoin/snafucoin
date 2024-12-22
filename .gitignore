@@ -1,0 +1,23 @@
+# Ignore all binary files
+*.o
+*.so
+*.exe
+*.dll
+*.bin
+*.dat
+*.out
+
+# Ignore specific binaries
+src/Snafucoin-wallet
+src/snafucoind
+src/Snafucoin-cli
+src/Snafucoin-tx
+*.o
+*.exe
+*.bin
+*.dat
+*.out
+src/Snafucoin-wallet
+src/snafucoind
+src/Snafucoin-cli
+src/Snafucoin-tx

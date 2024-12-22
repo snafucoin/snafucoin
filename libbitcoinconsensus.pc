@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Snafucoin Core consensus library
+Description: Library for the Bitcoin consensus protocol.
+Version: 0.21.4
+Libs: -L${libdir} -lbitcoinconsensus
+Cflags: -I${includedir}
